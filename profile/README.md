@@ -1,19 +1,9 @@
-```bash
-curl -i -vvv -X GET "https://forum.defcon.org/core/admincp/index.php?do=login" \
->   -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \
->   -H "Content-Type: application/x-www-form-urlencoded" \
->   -b "bbadminhash=47ef2f062003e8032b36e1a11983ca61; bbuserid=1; bbpassword=47ef2f062003e8032b36e1a11983ca61" \
->   -c cookies.txt \
->   --data-urlencode "vb_login_username=admin" \
->   --data-urlencode "vb_login_password=47ef2f062003e8032b36e1a11983ca61" \
->   --data-urlencode "securitytoken=guest" \
->   --data-urlencode "do=login" \
->   --data-urlencode "url=/core/admincp/"
-```
 # 👋 Hi, I'm ClumsyLulz
 
 **Taylor Christian Newsome** | Security Researcher & Developer
-# NOTE MY ONLY TELEGRAM ACCOUNT IS t.me/SleepTheGod I am not the gta leak account smh
+# NOTE MY ONLY TELEGRAM ACCOUNT IS t.me/SleepTheGod 
+# NOTE MY ONLY DISCORD ACCOUNT IS CLUMSYBEATS
+# NOTE I DO NOT HAVE A TWITTER / X Account
 
 [![Email](https://img.shields.io/badge/Email-sleepraps@gmail.com-red?style=flat-square&logo=gmail)](mailto:sleepraps@gmail.com)
 [![Website](https://img.shields.io/badge/Website-pl0x.org-blue?style=flat-square&logo=google-chrome)](https://pl0x.org)

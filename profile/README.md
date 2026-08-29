@@ -2,8 +2,26 @@
 
 **Taylor Christian Newsome** | Security Researcher & Developer
 # NOTE MY ONLY TELEGRAM ACCOUNT IS t.me/SleepTheGod 
-# NOTE MY ONLY DISCORD ACCOUNT IS CLUMSYBEATS
-# NOTE I DO NOT HAVE A TWITTER / X Account
+
+## 🌐 Connect With Me
+
+| Platform | Profile |
+|----------|---------|
+| **GitHub (Primary)** | [@ClumsyLulz](https://github.com/ClumsyLulz) |
+| **GitHub (Secondary)** | [@SleepTheGod](https://github.com/SleepTheGod) |
+| **LinkedIn** | [in/clumsy](https://linkedin.com/in/clumsy) |
+| **HackerOne** | [@DBMS](https://hackerone.com/DBMS) |
+| **Bugcrowd** | [@Sleep](https://bugcrowd.com/Sleep) |
+| **Hack The Box** | [profile](https://profile.hackthebox.com/profile/019cde8b-dba8-7146-948f-7b73127bb0a6) |
+| **YesWeHack** | [@ClumsyLulz](https://yeswehack.com/hunters/ClumsyLulz) |
+| **Telegram** | [@SleepTheGod](https://t.me/SleepTheGod) |
+| **SoundCloud** | [DoXeD](https://soundcloud.com/DoXeD) |
+| **YouTube** | [Stripped](https://youtube.com/Stripped) |
+| **CodePen** | [ClumsyLulz](https://codepen.io/ClumsyLulz) |
+| **Facebook** | [Hostiles](https://facebook.com/Hostiles) |
+| **Discord** | ClumsyBeats |
+
+> ⚠️ **Note:** I have NO Twitter/X account. Any claiming otherwise are impersonators.
 
 [![Email](https://img.shields.io/badge/Email-sleepraps@gmail.com-red?style=flat-square&logo=gmail)](mailto:sleepraps@gmail.com)
 [![Website](https://img.shields.io/badge/Website-pl0x.org-blue?style=flat-square&logo=google-chrome)](https://pl0x.org)
@@ -74,28 +92,6 @@ IBM Product Security Incident Response Team (PSIRT) has confirmed a vulnerabilit
 - **Points:** 15
 - **Completed:** 30 June 2025
 - **Instructors:** Heath Adams (TCM Security) & Andrew Bellini
-
----
-
-## 🌐 Connect With Me
-
-| Platform | Profile |
-|----------|---------|
-| **GitHub (Primary)** | [@ClumsyLulz](https://github.com/ClumsyLulz) |
-| **GitHub (Secondary)** | [@SleepTheGod](https://github.com/SleepTheGod) |
-| **LinkedIn** | [in/clumsy](https://linkedin.com/in/clumsy) |
-| **HackerOne** | [@DBMS](https://hackerone.com/DBMS) |
-| **Bugcrowd** | [@Sleep](https://bugcrowd.com/Sleep) |
-| **Hack The Box** | [profile](https://profile.hackthebox.com/profile/019cde8b-dba8-7146-948f-7b73127bb0a6) |
-| **YesWeHack** | [@ClumsyLulz](https://yeswehack.com/hunters/ClumsyLulz) |
-| **Telegram** | [@SleepTheGod](https://t.me/SleepTheGod) |
-| **SoundCloud** | [DoXeD](https://soundcloud.com/DoXeD) |
-| **YouTube** | [Stripped](https://youtube.com/Stripped) |
-| **CodePen** | [ClumsyLulz](https://codepen.io/ClumsyLulz) |
-| **Facebook** | [Hostiles](https://facebook.com/Hostiles) |
-| **Discord** | ClumsyBeats |
-
-> ⚠️ **Note:** I have NO Twitter/X account. Any claiming otherwise are impersonators.
 
 ---
 

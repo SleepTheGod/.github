@@ -330,6 +330,5 @@ Found a vulnerability? Please report it responsibly.
 ```console
 $ exit
 ClumsyLulz out.
-```
-```
+
 
